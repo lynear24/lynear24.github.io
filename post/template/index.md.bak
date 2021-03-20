@@ -8,5 +8,8 @@ image = "cover.png"
 slug = ""
 +++
 
-![](.png)
-![](.png)
+![](roughsketch.png)
+![](sketch.png)
+![](line.png)
+
+![](final.png)
